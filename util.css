@@ -159,6 +159,10 @@
 }
 
 
+.bg_reddark {
+    background-color: #691111;
+}
+
 
 /* Clases de opacidad que usan la variable --bg-color */
 .bg_opacity_10 {
